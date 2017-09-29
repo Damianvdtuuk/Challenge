@@ -1,39 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="309c2d3a-085f-42da-b0db-88567610a4bc" name="Default" comment="Opdracht 1">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IMG/Persoon1.300x300.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IMG/Persoon1.900x900.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IMG/Persoon10.300x300.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IMG/Persoon10.900x900.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IMG/Persoon11.300x300.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IMG/Persoon11.900x900.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IMG/Persoon12.300x300.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IMG/Persoon12.900x900.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IMG/Persoon2.300x300.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IMG/Persoon2.900x900.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IMG/Persoon3.300x300.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IMG/Persoon3.900x900.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IMG/Persoon4.300x300.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IMG/Persoon4.900x900.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IMG/Persoon5.300x300.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IMG/Persoon5.900x900.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IMG/Persoon6.300x300.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IMG/Persoon6.900x900.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IMG/Persoon7.300x300.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IMG/Persoon7.900x900.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IMG/Persoon8.300x300.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IMG/Persoon8.900x900.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IMG/Persoon9.300x300.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IMG/Persoon9.900x900.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IMG/borstel.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IMG/llustrasilk_02EDIT.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IMG/lustrasilk-logoEDIT.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IMG/lustrasilk_03EDIT.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IMG/lustrasilk_05.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IMG/scissor-magic-logo 200pxEDIT.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Opdracht4.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Opdracht5..html" />
+    <list default="true" id="309c2d3a-085f-42da-b0db-88567610a4bc" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,7 +13,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Opdracht1.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Opdracht1.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Opdracht1.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
@@ -55,7 +23,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Opdracht4.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Opdracht4.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Opdracht4.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
@@ -190,7 +158,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1506667554632</updated>
-      <workItem from="1506667556226" duration="10849000" />
+      <workItem from="1506667556226" duration="10885000" />
     </task>
     <task id="LOCAL-00001" summary="Opdracht 1">
       <created>1506668844648</created>
@@ -206,17 +174,23 @@
       <option name="project" value="LOCAL" />
       <updated>1506669168225</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Opdracht 1">
+      <created>1506688246183</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1506688246183</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10849000" />
+    <option name="totallyTimeSpent" value="10885000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="364" y="8" width="1000" height="860" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -258,14 +232,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Opdracht4.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="24" lean-forward="false" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Opdracht5..html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -278,6 +244,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="12" lean-forward="false" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Opdracht4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="24" lean-forward="false" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
           <folding />
         </state>
       </provider>
