@@ -1,7 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="309c2d3a-085f-42da-b0db-88567610a4bc" name="Default" comment="Opdracht 1" />
+    <list default="true" id="309c2d3a-085f-42da-b0db-88567610a4bc" name="Default" comment="Opdracht 1">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IMG/Persoon1.300x300.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IMG/Persoon1.900x900.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IMG/Persoon10.300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IMG/Persoon10.900x900.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IMG/Persoon11.300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IMG/Persoon11.900x900.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IMG/Persoon12.300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IMG/Persoon12.900x900.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IMG/Persoon2.300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IMG/Persoon2.900x900.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IMG/Persoon3.300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IMG/Persoon3.900x900.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IMG/Persoon4.300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IMG/Persoon4.900x900.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IMG/Persoon5.300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IMG/Persoon5.900x900.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IMG/Persoon6.300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IMG/Persoon6.900x900.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IMG/Persoon7.300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IMG/Persoon7.900x900.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IMG/Persoon8.300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IMG/Persoon8.900x900.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IMG/Persoon9.300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IMG/Persoon9.900x900.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IMG/borstel.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IMG/llustrasilk_02EDIT.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IMG/lustrasilk-logoEDIT.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IMG/lustrasilk_03EDIT.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IMG/lustrasilk_05.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IMG/scissor-magic-logo 200pxEDIT.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Opdracht4.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Opdracht5..html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,6 +50,26 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
               <caret line="7" column="12" lean-forward="false" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Opdracht4.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Opdracht4.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="24" lean-forward="false" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Opdracht5..html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Opdracht5..html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="10" lean-forward="true" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -38,6 +92,9 @@
       <list>
         <option value="$PROJECT_DIR$/Challenge.html" />
         <option value="$PROJECT_DIR$/Opdracht1.html" />
+        <option value="$PROJECT_DIR$/Opdracht2.html" />
+        <option value="$PROJECT_DIR$/Opdracht4.html" />
+        <option value="$PROJECT_DIR$/Opdracht5..html" />
       </list>
     </option>
   </component>
@@ -48,8 +105,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-5" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="364" />
+    <option name="y" value="8" />
     <option name="width" value="1000" />
     <option name="height" value="860" />
   </component>
@@ -76,6 +134,11 @@
               <item name="ChallengeHtml" type="b2602c69:ProjectViewProjectNode" />
               <item name="ChallengeHtml" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
+            <path>
+              <item name="ChallengeHtml" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ChallengeHtml" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="IMG" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -88,6 +151,14 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Damian\PhpstormProjects\ChallengeHtml\IMG" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Damian\PhpstormProjects\ChallengeHtml\IMG" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -119,7 +190,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1506667554632</updated>
-      <workItem from="1506667556226" duration="2045000" />
+      <workItem from="1506667556226" duration="10849000" />
     </task>
     <task id="LOCAL-00001" summary="Opdracht 1">
       <created>1506668844648</created>
@@ -139,13 +210,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2045000" />
+    <option name="totallyTimeSpent" value="10849000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <frame x="364" y="8" width="1000" height="860" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -183,6 +254,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Opdracht4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="24" lean-forward="false" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Opdracht5..html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="10" lean-forward="true" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
           <folding />
         </state>
       </provider>
